@@ -1,2 +1,2 @@
-requires 'Plack', '0.9980';
-requires 'Starman', '0.2000';
+requires 'Algorithm::Diff', '1.1902';
+requires 'common::sense', '3.75';
